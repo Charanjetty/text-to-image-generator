@@ -2,42 +2,34 @@
 STYLE_PRESETS = {
     "ghibli": {
         "label": "Ghibli",
-        "preset": "studio ghibli style, soft lighting, anime inspired",
-        "preview": "images/ghibli.jpg"
+        "preset": "A dreamy, Ghibli-style illustration with warm tones and magical atmosphere"
     },
     "cyberpunk": {
         "label": "Cyberpunk",
-        "preset": "neon lights, dystopian city, high-tech low-life",
-        "preview": "images/cyberpunk.jpg"
-    },
-    "pixar": {
-        "label": "Pixar",
-        "preset": "Pixar-style animation, 3D cartoon, vibrant colors",
-        "preview": "images/pixar.jpg"
+        "preset": "A neon-lit cyberpunk artwork with futuristic cityscapes and glowing lights"
     },
     "watercolor": {
         "label": "Watercolor",
-        "preset": "delicate watercolor painting, soft brush strokes",
-        "preview": "images/watercolor.jpg"
-    },
-    "realistic": {
-        "label": "Realistic",
-        "preset": "photorealistic, ultra-detailed, cinematic lighting",
-        "preview": "images/realistic.jpg"
+        "preset": "A soft watercolor painting with gentle pastels and artistic brush strokes"
     },
     "anime": {
         "label": "Anime",
-        "preset": "anime style, clean lines, vibrant characters",
-        "preview": "images/anime.jpg"
+        "preset": "An anime-inspired digital artwork with expressive characters and vivid scenes"
     },
     "fantasy": {
         "label": "Fantasy",
-        "preset": "high fantasy, dragons, magical forest, epic",
-        "preview": "images/fantasy.jpg"
+        "preset": "An epic fantasy art style with castles, dragons, and glowing landscapes"
     },
-    "3drender": {
+    "realistic": {
+        "label": "Realistic",
+        "preset": "A high-definition realistic image with detailed textures and lifelike shadows"
+    },
+    "pixar": {
+        "label": "Pixar",
+        "preset": "A Pixar-style 3D animation look with vibrant colors and soft cartoon charm"
+    },
+    "3d": {
         "label": "3D Render",
-        "preset": "3D model render, Blender style, octane lighting",
-        "preview": "images/3drender.jpg"
+        "preset": "A highly-detailed 3D render with realistic lighting and sharp design"
     }
 }
